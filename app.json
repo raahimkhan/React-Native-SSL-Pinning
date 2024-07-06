@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "React-Native-SSL-Pinning",
+    "owner": "raahimkhan_",
+    "slug": "React-Native-SSL-Pinning",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.raahimkhan.ReactNativeSSLPinning"
+    },
+    "android": {
+      "package": "com.raahimkhan.ReactNativeSSLPinning",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "plugins": [
+    ],
+    "extra": {
+      
+    }
+  }
+}
